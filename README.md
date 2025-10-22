@@ -154,6 +154,6 @@ self.config = {
 - 开发者：catcumin (猫宁孜)
 - 版本：v1.0.6
 - 更新日期：2025-10-22
-- 适配平台：星穿月联内网穿透项目组
+- 适配平台：星穿月联内网映射平台
 - 反馈邮箱：969008120@qq.com
 - GitHub：https://github.com/catcumin
