@@ -53,7 +53,11 @@
 
 2. 执行主程序：
    ```bash
-   python main.py
+   python CatTunGuard_v1.0.6.py
+   ```
+   或
+      ```bash
+   运行 CatTunGuard.exe
    ```
 
 3. 输入管理员认证Token：
